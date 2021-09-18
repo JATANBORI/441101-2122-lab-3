@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "L3.8-GameScoringSystem/1.0.0": {
+        "runtime": {
+          "L3.8-GameScoringSystem.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "L3.8-GameScoringSystem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
