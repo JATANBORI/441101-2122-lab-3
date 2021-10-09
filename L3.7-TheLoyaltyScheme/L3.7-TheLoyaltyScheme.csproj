@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>L3._5_TheChickenLoyalty</RootNamespace>
+    <RootNamespace>L3._5_TheLoyaltyScheme</RootNamespace>
   </PropertyGroup>
 
 </Project>
